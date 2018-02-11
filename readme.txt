@@ -1,6 +1,6 @@
 CMPH - C Minimal Perfect Hashing Library
 
-This code is not mine. Just conpiled with MSVC 6.0
+This code is not mine. Just compiled with MSVC 6.0
 
 See http://cmph.sourceforge.net/ for detailes.
 
